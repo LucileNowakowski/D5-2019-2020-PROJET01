@@ -1,0 +1,39 @@
+
+p{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 27px;
+  letter-spacing: 0.8px;
+  margin-top: 30px;
+}
+
+
+
+h1{
+  font-family: 'Cormorant Infant', serif;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 160px;
+  margin-bottom: 120px;
+  line-height: 90px;
+}
+
+
+h2{
+  font-family: 'Cormorant Infant', serif;
+  font-size: 2.7em;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  line-height: 50px;
+}
+
+h3{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 1.05em;
+  line-height: 30px;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
